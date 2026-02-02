@@ -1,0 +1,5 @@
+{
+  "name": "Java Source Clock Screensaver",
+  "description": "An immersive, developer-themed clock screensaver that displays time as a dynamic, real-time Java class object with syntax highlighting and ambient coding aesthetics.",
+  "requestFramePermissions": []
+}
